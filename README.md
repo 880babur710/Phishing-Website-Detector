@@ -1,4 +1,8 @@
 # Phishing-Website-Detector
+### Project Files
+- the csv file contains the dataset
+- the ipynb file contains the notebook the project was implemented
+
 ### Current State of Project
 - uses the scikit-learn library to train a logistic regression model that detects phishing websites 
 - achieves precision, recall, and f1-score greater than 0.90
